@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  RepoGit
 //
-//  Created by Aleksandr Skorotkin on 30/11/2018.
+//  Created by Aleksandr Skorotkin on 20/12/2018.
 //  Copyright © 2018 Aleksandr Skorotkin. All rights reserved.
 //
 
